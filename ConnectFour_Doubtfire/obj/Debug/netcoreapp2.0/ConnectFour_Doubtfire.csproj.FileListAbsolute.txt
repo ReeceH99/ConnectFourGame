@@ -1,0 +1,37 @@
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.deps.json
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.runtimeconfig.json
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.runtimeconfig.dev.json
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.dll
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.pdb
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.csprojAssemblyReference.cache
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.AssemblyInfoInputs.cache
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.AssemblyInfo.cs
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.csproj.CoreCompileInputs.cache
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.dll
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.pdb
+C:/Users/Reece/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.genruntimeconfig.cache
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.deps.json
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.runtimeconfig.json
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.runtimeconfig.dev.json
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.dll
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.pdb
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.csprojAssemblyReference.cache
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.AssemblyInfoInputs.cache
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.AssemblyInfo.cs
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.csproj.CoreCompileInputs.cache
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.dll
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.pdb
+E:/Reece Uni laptop/Desktop/OOP/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.genruntimeconfig.cache
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.deps.json
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.runtimeconfig.json
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.runtimeconfig.dev.json
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.dll
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/bin/Debug/netcoreapp2.0/ConnectFour_Doubtfire.pdb
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.csproj.AssemblyReference.cache
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.AssemblyInfoInputs.cache
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.AssemblyInfo.cs
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.csproj.CoreCompileInputs.cache
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.dll
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.pdb
+/Users/reecehodges/Desktop/ConnectFour_Doubtfire/obj/Debug/netcoreapp2.0/ConnectFour_Doubtfire.genruntimeconfig.cache
