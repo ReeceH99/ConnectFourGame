@@ -2,7 +2,7 @@
 
 
 <img width="453" alt="Screenshot 2023-08-27 at 8 32 44 pm" src="https://github.com/ReeceH99/ConnectFourGame/assets/126630520/723197d6-2efd-4269-8f14-bb5dcd464c39">
-
+<img width="454" alt="Screenshot 2023-08-27 at 8 35 29 pm" src="https://github.com/ReeceH99/ConnectFourGame/assets/126630520/d65cd1f4-75c3-415e-be68-05b186f0c788">
 
 ## Description
 
