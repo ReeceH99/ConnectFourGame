@@ -10,11 +10,11 @@ Welcome to my Connect Four game! This project is a classic implementation of the
 
 ## Features
 
-- Varying Difficulties of AI Opponent: The game allows for playing in three different difficulty modes - easy, medium and hard. 
-- Colorful Graphics: The game features an engaging graphical interface created with the SplashKit library.
-- Interactive Gameplay: Players can select columns to drop their discs, and the game checks for a winning combination after each move.
-- Win Detection: The game accurately detects when a player has achieved a winning combination of four discs in a row.
-- Score Tracking: The screen displays how many wins each player has got. 
+- **Varying Difficulties of AI Opponent**: The game allows for playing in three different difficulty modes - easy, medium and hard. 
+- **Colorful Graphics**: The game features an engaging graphical interface created with the SplashKit library.
+- **Interactive Gameplay**: Players can select columns to drop their discs, and the game checks for a winning combination after each move.
+- **Win Detection**: The game accurately detects when a player has achieved a winning combination of four discs in a row.
+- **Score Tracking**: The screen displays how many wins each player has got. 
 
 ## How to Play
 
