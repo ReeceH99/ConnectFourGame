@@ -1,6 +1,7 @@
 # ConnectFourGame
 
-![image](https://github.com/ReeceH99/ConnectFourGame/assets/126630520/be7f5dc9-ac1c-4388-baea-a9bdb3d9c644)
+
+<img width="453" alt="Screenshot 2023-08-27 at 8 32 44 pm" src="https://github.com/ReeceH99/ConnectFourGame/assets/126630520/723197d6-2efd-4269-8f14-bb5dcd464c39">
 
 
 ## Description
