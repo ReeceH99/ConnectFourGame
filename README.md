@@ -1,6 +1,7 @@
 # ConnectFourGame
 
-![Connect Four Screenshot](screenshot.png)
+![image](https://github.com/ReeceH99/ConnectFourGame/assets/126630520/be7f5dc9-ac1c-4388-baea-a9bdb3d9c644)
+
 
 ## Description
 
